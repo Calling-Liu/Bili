@@ -1,0 +1,11 @@
+include ':app:sakura'
+include ':app:bilibili01'
+include ':app:bilibili'
+include ':app:pix'
+include ':app:myintent'
+include ':app:fragment'
+include ':app:myactivity'
+include ':app:qqchat'
+include ':app:Finger'
+include ':app'
+rootProject.name = "My Application"

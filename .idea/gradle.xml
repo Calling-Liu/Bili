@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/Finger" />
+            <option value="$PROJECT_DIR$/app/bilibili" />
+            <option value="$PROJECT_DIR$/app/bilibili01" />
+            <option value="$PROJECT_DIR$/app/fragment" />
+            <option value="$PROJECT_DIR$/app/myactivity" />
+            <option value="$PROJECT_DIR$/app/myintent" />
+            <option value="$PROJECT_DIR$/app/pix" />
+            <option value="$PROJECT_DIR$/app/qqchat" />
+            <option value="$PROJECT_DIR$/app/sakura" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
